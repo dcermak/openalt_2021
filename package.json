@@ -1,0 +1,13 @@
+{
+  "name": "openalt_2021",
+  "version": "0.0.1",
+  "description": "My presentation about openQA @ OpenALT 2021",
+  "repository": "https://github.com/dcermak/openalt_2021",
+  "author": "Dan Čermák",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": ">=5.15",
+    "eos-icons": ">=5.3",
+    "reveal.js": ">=4.1"
+  }
+}
